@@ -1,2 +1,2 @@
 # index.html
-CSE 170 Reflection
+CSE170 Reflection
